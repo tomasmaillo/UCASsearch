@@ -7,7 +7,7 @@
 
 # Usage
 1. Run it
-2. Enter [Search UCAS url](https://digital.ucas.com/)
+2. Enter [Search UCAS](https://digital.ucas.com/) url
 3. You have 5 seconds to change simple settings (like the entry requirements)
 4. Stuff will start to get loaded and stored in a txt file (random number name)
 5. Stop the program once you get a "Looks like you're not getting any results."
